@@ -30,3 +30,5 @@ cd LearningTypescript
 ### Useful Commands
 tsc filename -w
 
+tsc --init for create tsconfig.json
+
